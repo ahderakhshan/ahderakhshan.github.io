@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 locale                   : "en-US" 
 title                    : "امیرحسین درخشان"
 title_separator          : "-"
-name                     : "amirhossien" 
+name                     : "amirhossien derakhshan" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -112,8 +112,8 @@ author:
   bio              : I'm studying computer engineering at iust. 
   location         : "تهران"
   email            : ahderakhshan.ce@gmail.com
-  twitter: 
-  linkedin:
+  twitter: ""
+  linkedin: ""
   google_scholar: Q25s5KkAAAAJ
   github: ahderakhshan
   instagram: sauleh

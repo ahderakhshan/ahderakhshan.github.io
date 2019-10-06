@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 locale                   : "en-US" 
 title                    : "امیرحسین درخشان"
 title_separator          : "-"
-name                     : "amirhossien derakhshan" 
+name                     : "amirhosien derakhshan" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -116,8 +116,8 @@ author:
   linkedin: ""
   google_scholar: Q25s5KkAAAAJ
   github: ahderakhshan
-  instagram: sauleh
-  links: sauleh
+  instagram:
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com

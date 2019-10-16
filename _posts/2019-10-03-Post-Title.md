@@ -1,12 +1,11 @@
 ---
 layout: posts
-title: Sample post 1
+title: biograghy
 ---
 
-This is a sample post:
-- *Post* one and **post** two.
-- bullet point two.
+This is a biograghy:
+- I am AmirHossein Derakhshan
+- I study computer engineering at **IUST**
 
 
----
-**Test**: This is atest
+http://openday.iust.ac.ir/wp-content/uploads/2014/07/DSC_0737.jpg

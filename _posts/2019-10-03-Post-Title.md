@@ -8,4 +8,6 @@ This is a biograghy:
 - I study computer engineering at **IUST**
 
 
-http://openday.iust.ac.ir/wp-content/uploads/2014/07/DSC_0737.jpg
+- url: /assets/images/ce.jpg
+    image_path: /assets/images/ce.jpg
+    alt: "ce"

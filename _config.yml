@@ -158,6 +158,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Calendly"
+      icon: "fas fa-calendar-alt"
+      url: "http://calendly.com/ahderakhshan"
 
 
 # Reading Files
